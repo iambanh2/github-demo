@@ -10,3 +10,4 @@
 
 Please fork commit and report bugs
 Adding a line for rebasing example, then more changes from myfeature branch too.
+All rights reserved.
